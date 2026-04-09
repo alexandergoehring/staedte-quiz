@@ -7,8 +7,8 @@ Es soll ein Quiz werden.
 Es sollen zehn deutsche große Städte erraten werden anhand von Bildern von Sehenswürdigkeiten der Städte.
 
 Hinweise:
-- die Grundlogik und Design war bereits beim FirstShot korrekt
-- durch die KI wurden Spieledetails eigenständig ohne expolizite Vorgabe ausmodelliert:
+- die Grundlogik und das Design war bereits beim FirstShot korrekt
+- durch die KI wurden Spieledetails eigenständig ohne explizite Vorgabe ausmodelliert:
   - Städte Auswahl
   - Sehenswürdigkeiten Auswahl
   - Quiz A/B/C/D Städtevorschläge
@@ -35,5 +35,4 @@ Fazit:
 - keine einzige Zeile Code programmiert
 - nur die Claude KI instruiert
 
-das Spiel ist live unter: https://alexandergoehring.github.io/staedte-quiz/quiz.html
-
+das Spiel ist live unter: [quiz.html](https://alexandergoehring.github.io/staedte-quiz/quiz.html)
