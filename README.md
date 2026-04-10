@@ -36,3 +36,4 @@ Fazit:
 - nur die Claude KI instruiert
 
 das Spiel ist live unter: [quiz.html](https://alexandergoehring.github.io/staedte-quiz/quiz.html)
+durch die KI generierter [Quellcode](https://github.com/alexandergoehring/staedte-quiz)
